@@ -1,4 +1,4 @@
-# Spacing_Star
+# Spacing Star
 
 ## Description 
 
@@ -17,13 +17,13 @@ Note: The artwork used in this project is not original and belongs to its respec
 
 * Four types of enemies:
 
-** Alien: Shoots projectiles and follows specific routes.
+    * Alien: Shoots projectiles and follows specific routes.
 
-** Kamikaze: Chases the player and self-destructs upon impact.
+    * Kamikaze: Chases the player and self-destructs upon impact.
 
-** Miner: Avoids direct combat and drops bombs along its path.
+    * Miner: Avoids direct combat and drops bombs along its path.
 
-** Mothership: Summons Kamikazes and shoots at higher difficulties.
+    * Mothership: Summons Kamikazes and shoots at higher difficulties.
 
 * Enemies change their behavior based on the difficulty level.
 
@@ -45,17 +45,17 @@ Note: The artwork used in this project is not original and belongs to its respec
 
 ## How to Play
 
-W/S or Arrow Keys: Forward/Backward movement.
+* W/S or Arrow Keys: Forward/Backward movement.
 
-A/D or Arrow Keys: Ship rotation.
+* A/D or Arrow Keys: Ship rotation.
 
-Mouse: Aim the automatic cannon.
+* Mouse: Aim the automatic cannon.
 
-Left Click: Shoot the automatic cannon.
+* Left Click: Shoot the automatic cannon.
 
-Right Click: Shoot the front cannon.
+* Right Click: Shoot the front cannon.
 
-Spacebar: Turbo.
+* Spacebar: Turbo.
 
 ## Future Improvements
 
